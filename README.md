@@ -17,14 +17,16 @@ We are going to try and have some consistent branding on BRC-MH projects. Please
 
 2) Delete the .git in BRC-U_git_template folder, so you can start from scratch.
 
-    $ rm -r ./BRC-U_git_template/.git
+    $ rm -rf ./BRC-U_git_template/.git
    
 3) Rename the project:
 
     $ mv BRC-U_git_template.git <New-Repository-Name> 
 
-4) Create a project in GitHub with "New-Repository-Name" to act as your remote. In your top level folder:
-
+4) Create a project in GitHub "+New Repository" with "New-Repository-Name" to act as your remote. In your top level folder:
+    
+    $ cd New-Repository-Name/
+    $ git init
     $ git remote add <remote URL>
  
 5) Edit this README.md with the relevant information to your project.
