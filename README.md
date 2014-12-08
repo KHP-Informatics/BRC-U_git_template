@@ -15,18 +15,22 @@ We are going to try and have some consistent branding on BRC-MH projects. Please
 
     $ git clone git@github.com:KHP-Informatics/BRC-U_git_template.git
 
-2) Delete the .git folder, so you can start from scratch.
+2) Delete the .git in BRC-U_git_template folder, so you can start from scratch.
 
     $ rm -r ./BRC-U_git_template/.git
-
+   
 3) Rename the project:
 
     $ mv BRC-U_git_template.git <New-Repository-Name> 
 
-4) Edit this README.md with the relevant information to your project.
+4) Create a project in GitHub with "New-Repository-Name" to act as your remote. In your top level folder:
+
+    $ git remote add <remote URL>
+ 
+5) Edit this README.md with the relevant information to your project.
     If you are not familiar with markdown see: [git markdown](https://guides.github.com/features/mastering-markdown/)
 
-5) create your first commit
+6) create your first commit
     $ git add .
     $ git commit -m "First Commit"
 
