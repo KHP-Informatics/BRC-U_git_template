@@ -7,7 +7,7 @@ Author(s):
 
 Release Version:
 
-## Please use this template for BRC projects
+##Please use this template for BRC projects
 We are going to try and have some consistent branding on BRC-MH projects. Please use this template project as stub for your work, see the instructions below.
 
 *NOTE* You need a GitHub account and to be a member of the KHP-Informatics Repo (via invite).
@@ -39,7 +39,18 @@ We are going to try and have some consistent branding on BRC-MH projects. Please
     $ git commit -m "First Commit"
     $ git push origin master
 
-7) Copy in any further files, code etc. then *git add*, *git commit* and *git push* as above to send any new commits to the GitHub remote.
+7) Copy in any further files, code etc. then `git add`, `git commit` and `git push` as above to send any new commits to the GitHub remote.
+
+
+##Git Documentation
+* http://git-scm.com/documentation
+* http://learn.github.com/
+* http://www.youtube.com/GitHubGuides
+* * My Git Notes: http://goo.gl/PTNeXy
+* http://genome.sph.umich.edu/wiki/Using_Git_Example
+* http://genome.sph.umich.edu/w/images/c/c4/GitCheatSheet.pdf
+* topic tutorials: http://alblue.bandlem.com/Tag/git/ 
+* Articles on github: https://help.github.com/articles/ 
 
     
    
