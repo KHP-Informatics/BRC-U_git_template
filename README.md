@@ -29,7 +29,7 @@ We are going to try and have some consistent branding on BRC-MH projects. Please
     $ cd New-Repository-Name/
     $ git init
     $ git remote add <remote URL>
-    # NOTE: you can get the remote URL from your newly created github project (the ssh_ git@github.com:KHP-Informatics/New-Repository-Name.git url if you want passwordless access or https https://github.com/KHP-Informatics/New-Repository-Name.git url will require a password) 
+    ** NOTE: you can get the remote URL from your newly created github project (the ssh_ git@github.com:KHP-Informatics/New-Repository-Name.git url if you want passwordless access or https https://github.com/KHP-Informatics/New-Repository-Name.git url will require a password) **
  
 5) Edit this README.md with the relevant information to your project.
     If you are not familiar with markdown see: [git markdown](https://guides.github.com/features/mastering-markdown/)
@@ -53,5 +53,8 @@ We are going to try and have some consistent branding on BRC-MH projects. Please
 * Articles on github: https://help.github.com/articles/ 
 
     
-   
+**please include appropriate copywrite accrediation this will mostly be to KCL/BRC or other home institution** 
+e.g. for KCL https://www.kcl.ac.uk/library/using/Copyright/Index.aspx
+>> King’s Code of Practice for Intellectual Property, Commercial Exploitation and Financial Benefit states that the university claims copyright for any works created by personnel during the course of their employment at the university.
+
 ![Kings Health Partners](figures/brc-u-logos/KHP_M_oneline_descriptor_strapline_hr_CMYK-e1409244956134.jpg)
